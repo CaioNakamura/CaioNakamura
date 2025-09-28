@@ -11,14 +11,14 @@ Me chamo Caio Nakamura Carvalho, tenho 19 anos e sou natural de Ribeirão Pires-
     <img src="https://logo.svgcdn.com/l/google-gmail.svg" alt="Gmail" style="width: 36px; height: 36px;" /></a>
 &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/caio-nakamura-212648269" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"               style="background-color:#0A66C2; padding:4px; border-radius:8px;"></a>
+    <img src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)" width="30" height="30" alt="LinkedIn"style="background-color:#0A66C2; padding:4px; border-radius:8px;"></a>
 &nbsp;&nbsp;
     <a href="https://github.com/CaioNakamura?tab=repositories">
-    <img src="https://www.svgrepo.com/show/512317/github-142.svg" width="30" height="30" alt="GitHub"
+    <img src="[https://www.svgrepo.com/show/512317/github-142.svg](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)" width="30" height="30" alt="GitHub"
     style="background-color: white; padding:4px; border-radius:8px;">
 &nbsp;&nbsp;
     <a href="https://www.youtube.com/@CaionakamuraJP" title="YouTube">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="30" height="30" alt="YouTube"
+    <img src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)" width="30" height="30" alt="YouTube"
     style="background-color:#FF0000; padding:4px; border-radius:8px;">
 </a>
 </p>
