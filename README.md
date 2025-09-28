@@ -7,26 +7,32 @@ Me chamo Caio Nakamura Carvalho, tenho 19 anos e sou natural de Ribeirão Pires-
 
 **`Entre em contato:`**
 <p align="left">
-        <a href="malito:caionakamuraa.20@gmail.com" title="Gmail">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" style="margin-right:8px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/caio-nakamura-212648269" title="LinkedIn">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-       width="30" height="30"
-       style="background-color:#0A66C2; padding:4px; border-radius:8px; margin-right:8px;" />
-</a>
-
-<a href="https://github.com/CaioNakamura?tab=repositories" title="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"
-       width="30" height="30"
-       style="background-color:#000000; padding:4px; border-radius:8px; margin-right:8px;" />
-</a>
-
-<a href="https://www.youtube.com/@CaionakamuraJP" title="YouTube">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
-       width="30" height="30"
-       style="background-color:#FF0000; padding:4px; border-radius:8px;" />
+    <a href="malito:caionakamuraa.20@gmail.com" title="Gmail">
+    <img src="https://logo.svgcdn.com/l/google-gmail.svg" alt="Gmail" style="width: 36px; height: 36px;" /></a>
+&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/caio-nakamura-212648269" title="LinkedIn">
+    <img
+        alt="LinkedIn"
+        title="LinkedIn" 
+        width="40px" 
+        style="padding-right: 10px;"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+&nbsp;&nbsp;
+    <a href="https://github.com/CaioNakamura?tab=repositories">
+    <img 
+        alt="GitHub"
+        title="GitHub" 
+        width="40px" 
+        style="padding-right: 10px;"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /></a>
+&nbsp;&nbsp;
+    <a href="https://www.youtube.com/@CaionakamuraJP" title="YouTube">
+    <img 
+        alt="YouTube"
+        title="YouTube" 
+        width="40px" 
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="30" height="30" />
 </a>
 </p>
 
