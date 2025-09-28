@@ -18,14 +18,6 @@ Me chamo Caio Nakamura Carvalho, tenho 19 anos e sou natural de Ribeirão Pires-
         style="padding-right: 10px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 &nbsp;&nbsp;
-    <a href="https://github.com/CaioNakamura?tab=repositories">
-    <img 
-        alt="GitHub"
-        title="GitHub" 
-        width="40px" 
-        style="padding-right: 10px;"  
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /></a>
-&nbsp;&nbsp;
     <a href="https://www.youtube.com/@CaionakamuraJP" title="YouTube">
     <img 
         alt="YouTube"
