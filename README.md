@@ -93,8 +93,8 @@ Me chamo Caio Nakamura Carvalho, tenho 19 anos e sou natural de Ribeirão Pires-
     alt="Canva"
     title="Canva" 
     width="30px" 
-    style="background-color:#00C4CC; padding:2px; border-radius:5px; margin-right:8px;" 
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
 />
 
 <br/>
